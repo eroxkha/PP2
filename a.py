@@ -1,1 +1,1 @@
-fes
+print("Hello, World!")
